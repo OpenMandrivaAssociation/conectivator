@@ -10,7 +10,6 @@ License: GPL
 Group: Shells
 Source0: conectivator-profile.sh
 Requires: bash
-BuildRoot: %{_tmppath}/%{name}-%{version}-root-%(id -u -n)
 Buildarch: noarch
 
 %description
