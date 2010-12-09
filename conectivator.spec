@@ -5,7 +5,7 @@
 Name: conectivator
 Summary: A set of aliases for Conectiva users
 Version: 0.2
-Release: %mkrel 4
+Release: %mkrel 5
 License: GPL
 Group: Shells
 Source0: conectivator-profile.sh
