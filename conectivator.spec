@@ -24,6 +24,5 @@ Back are:
 
 %install
 mkdir -p %{buildroot}%{_sysconfdir}/profile.d
-install -m 0755 %{_sourcedir}/conectivator-profile.sh \
-	%{buildroot}%{_sysconfdir}/profile.d/conectivator.sh
+install -m 0755 %{SOURCE0} %{buildroot}%{_sysconfdir}/profile.d/conectivator.sh
 
