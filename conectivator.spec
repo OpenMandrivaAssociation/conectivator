@@ -1,7 +1,7 @@
 Summary:	A set of aliases for Conectiva users
 Name:		conectivator
 Version:	0.2
-Release:	6
+Release:	7
 License:	GPLv2+
 Group:		Shells
 Source0:	conectivator-profile.sh
